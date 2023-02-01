@@ -28,3 +28,6 @@ export default function anyAscii(string) {
 	}
 	return result;
 }
+
+export { anyAscii };
+export default anyAscii;
